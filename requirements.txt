@@ -1,0 +1,8 @@
+selenium
+pandas
+pyautogui
+pystray
+Pillow
+python-dotenv
+schedule
+customtkinter
